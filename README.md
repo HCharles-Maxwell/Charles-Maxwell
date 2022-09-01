@@ -4,7 +4,7 @@
 <p>This site is a demo site intended to showcase various service bus architectures and application development frameworks
 The following tools and components are integrated into this project:</p>
 
-<h2>Site Components<h2>
+<h2>Site Components</h2>
 
 <ul>
   <li>ASP.Net Core Framework 6.0</li>
