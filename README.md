@@ -1,4 +1,4 @@
-# Charles-Maxwell
+# Charles Maxwell
 ## Full-Stack Applications Developer & Solutions Architect
 
 <p>This site is a demo site intended to showcase various service bus architectures and application development frameworks
