@@ -1,5 +1,5 @@
 # Charles Maxwell
-## Full-Stack Applications Developer & Solutions Architect
+## Full-Stack Applications Developers & Solutions Architects
 
 <p>This site is a demo site intended to showcase various service bus architectures and application development frameworks
 The following tools and components are integrated into this project:</p>
@@ -12,7 +12,8 @@ The following tools and components are integrated into this project:</p>
   <li>Node.js</>
   <li>Azure Identity Manager</li>
   <li>Azure App Service</li>
-  <li>Azure Service Bus
+  <li>Azure Service Bus</li>
+  <li>Azure Virtual Machines & VNets configurations
 </ul>
 
  <h3>Note:</h3>
