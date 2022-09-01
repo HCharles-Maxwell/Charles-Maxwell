@@ -1,4 +1,4 @@
-# Charles-Maxwell's Personal Website
+# Charles-Maxwell
 ## Full-Stack Applications Developer & Solutions Architect
 
 <p>This repository comprises a collection of demo projects aim at demonstrating various architecture and deployment models<p>
