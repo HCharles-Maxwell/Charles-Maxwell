@@ -13,14 +13,14 @@ The following tools and components are integrated into this project:</p>
   <li>Azure Identity Manager</li>
   <li>Azure App Service</li>
   <li>Azure Service Bus</li>
-  <li>Azure Virtual Machines & VNets configurations
+  <li>Azure Virtual Machines & V-Net configurations
 </ul>
 
  <h3>Note:</h3>
 
 This is the personal public site of Charles Maxwell.<br />
-This site may contain proprietary information regarding copyright ownership. Please treat all contents as confidential and for your eyes only.
+This site may contain proprietary information protected under copyright. Please treat all content within this site as confidential and for your eyes only.
 
-If you have gained entry into this site in error, please contact <a href="mailto:CharlesMaxwell87@gmail.com" target="_blank">The Administrator</a> and exit this site immediately. <br /> All rights reserved.   
+If you have entered into this site in error, please contact <a href="mailto:CharlesMaxwell87@gmail.com" target="_blank">The Administrator</a> and exit this site immediately or we will reach out and contact you. <br /> All rights reserved.   
 
 
