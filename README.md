@@ -8,6 +8,9 @@ The following tools and components are integrated into this project:</p>
 
 <ul>
   <li>ASP.Net Core Framework 6.0</li>
+  <li>Blazor Web Assembly
+   <li>Blazor Server
+   <li>APIs Minimal/Controllers
   <li>Python 3.10.6
   <li>Node.js</>
   <li>Azure Identity Manager</li>
