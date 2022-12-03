@@ -12,7 +12,7 @@ The following tools and components are integrated into this project:</p>
   <li>Blazor Web Assembly Components
   <li>Blazor Server Components
   <li>API Endpoint definition & consumption (Senders/Receivers)  
-  <li>APIs Minimal/Controller based
+  <li>Minimal/Controller based APIs 
   <li>Python 3.10.6
   <li>Node.js</>
   <li>Azure Identity Manager</li>
