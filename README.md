@@ -26,6 +26,6 @@ The following tools and components are integrated into this project:</p>
 This is the personal public site of Charles Maxwell.<br />
 This site may contain proprietary information that may be protected under copyright. Please treat all content within this site as confidential and for your eyes only.
 
-If you have entered into this site in error, please contact <a href="mailto:CharlesMaxwell87@gmail.com" target="_blank">The Administrator</a> and exit this site<br /> All rights reserved.   
+If you have entered into this site in error, please exit or contact <a href="mailto:CharlesMaxwell87@gmail.com" target="_blank">The Administrator</a> <br /> All rights reserved.   
 
 
