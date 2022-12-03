@@ -10,7 +10,7 @@ The following tools and components are integrated into this project:</p>
   <li>ASP.Net Core Framework 6.0</li>
   
   <li>Blazor Web Assembly Components
-  <li>Blazor Server Components
+  <li>Blazor Server Component Library
   <li>API Endpoint definition & consumption (Senders/Receivers)  
   <li>Minimal/Controller based APIs 
   <li>Python 3.10.6
@@ -19,6 +19,8 @@ The following tools and components are integrated into this project:</p>
   <li>Azure App Service</li>
   <li>Azure Service Bus</li>
   <li>Azure Virtual Machines & V-Net configurations
+  <li>DevOps CD/CI Pipeline configurations
+  
 </ul>
 
  <h3>Note:</h3>
